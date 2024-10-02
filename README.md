@@ -10,6 +10,6 @@
 
 
 Diterapkan pada Raspberry PI 4 
-- OS Debian Bullseye
+- OS Debian Bullseye 64 bit
 - Versi Python 3.10.12
 - Versi PIP 2.3
