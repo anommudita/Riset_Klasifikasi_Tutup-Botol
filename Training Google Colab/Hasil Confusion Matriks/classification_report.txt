@@ -1,0 +1,19 @@
+                precision    recall  f1-score   support
+
+         putih     0.8000    1.0000    0.8889        20
+      hijautua     1.0000    0.9500    0.9744        20
+         hitam     1.0000    1.0000    1.0000        20
+         merah     1.0000    0.8500    0.9189        20
+        orange     1.0000    1.0000    1.0000        20
+ putihcampuran     1.0000    1.0000    1.0000        20
+        kuning     1.0000    1.0000    1.0000        20
+kuningcampuran     1.0000    1.0000    1.0000        20
+     hijaumuda     0.9524    1.0000    0.9756        20
+    birulangit     0.8696    1.0000    0.9302        20
+       birutua     1.0000    0.9000    0.9474        20
+        coklat     0.8636    0.9500    0.9048        20
+          emas     1.0000    0.7500    0.8571        20
+
+      accuracy                         0.9538       260
+     macro avg     0.9604    0.9538    0.9536       260
+  weighted avg     0.9604    0.9538    0.9536       260
